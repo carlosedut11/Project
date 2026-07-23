@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://crnotpnlbg0bp"]
+
+[ext_resource type="PackedScene" uid="uid://ctkdrpd8orp6t" path="res://scene.gltf" id="1_a202f"]
+
+[node name="Multiplayer" type="Node3D" unique_id=272134575]
+transform = Transform3D(0.03101944, 0.9995189, 0, -0.9995189, 0.03101944, 0, 0, 0, 1, 1.1043153, 0.64582896, 0)
+
+[node name="Sketchfab_Scene" parent="." unique_id=2070975879 instance=ExtResource("1_a202f")]
+transform = Transform3D(0.031019425, -0.9995184, 0, 0.9995184, 0.031019425, 0, 0, 0, 1, 0.99765325, -4.234532, -2.6579237)

@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://1i1sl0lg0glh"]
+
+[ext_resource type="PackedScene" uid="uid://ctkdrpd8orp6t" path="res://scene.gltf" id="1_2wn6x"]
+
+[node name="Node3D" type="Node3D" unique_id=1181708653]
+
+[node name="Sketchfab_Scene" parent="." unique_id=2070975879 instance=ExtResource("1_2wn6x")]
